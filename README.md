@@ -1,3 +1,15 @@
 # Reading_list
-- [SimCS: Simulation for Domain Incremental Online Continual Segmentation](https://arxiv.org/abs/2211.16234)
-- 
+- [SimCS: Simulation for Domain Incremental Online Continual Segmentation(2022)](https://arxiv.org/abs/2211.16234)
+- [Adding Conditional Control to Text-to-Image Diffusion Models(ControlNet)(2023)](https://arxiv.org/abs/2302.05543)
+- [LoRA: Low-Rank Adaptation of Large Language Models(LoRA)(2021)](https://arxiv.org/abs/2106.09685)
+- [High-Resolution Image Synthesis With Latent Diffusion Models(2022)](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)
+- [Zero-shot spatial layout conditioning for text-to-image diffusion models*](https://arxiv.org/abs/2306.13754)
+- [Unbiased look at dataset bias](https://ieeexplore.ieee.org/abstract/document/5995347)
+- [DreamSim: Learning New Dimensions of Human Visual Similarity using Synthetic Data](https://arxiv.org/abs/2306.09344)
+- [The Unreasonable Effectiveness of Deep Features as a Perceptual Metric*](https://arxiv.org/abs/1801.03924)
+- [Just Say the Name: Online Continual Learning with Category Names Only via Data Generation](https://arxiv.org/pdf/2403.10853)
+- [REAL-FAKE: EFFECTIVE TRAINING DATA SYNTHESIS THROUGH DISTRIBUTION MATCHING](https://arxiv.org/pdf/2310.10402)
+- [Visual Instruction Tuning(LLaVA)](https://arxiv.org/abs/2304.08485)
+-[mixup: BEYOND EMPIRICAL RISK MINIMIZATION](https://arxiv.org/pdf/1710.09412)
+-[CADS: Unleashing the Diversity of Diffusion Models Through Condition-Annealed Sampling](https://studios.disneyresearch.com/2024/05/08/cads-unleashing-the-diversity-of-diffusion-models-through-condition-annealed-sampling/)
+
