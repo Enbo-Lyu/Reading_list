@@ -11,5 +11,6 @@
 - [REAL-FAKE: EFFECTIVE TRAINING DATA SYNTHESIS THROUGH DISTRIBUTION MATCHING](https://arxiv.org/pdf/2310.10402)
 - [Visual Instruction Tuning(LLaVA)](https://arxiv.org/abs/2304.08485)
 - [mixup: BEYOND EMPIRICAL RISK MINIMIZATION](https://arxiv.org/pdf/1710.09412)
+- [SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations](https://arxiv.org/abs/2108.01073)
 - [CADS: Unleashing the Diversity of Diffusion Models Through Condition-Annealed Sampling](https://studios.disneyresearch.com/2024/05/08/cads-unleashing-the-diversity-of-diffusion-models-through-condition-annealed-sampling/)
 
