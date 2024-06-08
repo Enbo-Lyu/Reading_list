@@ -10,6 +10,6 @@
 - [Just Say the Name: Online Continual Learning with Category Names Only via Data Generation](https://arxiv.org/pdf/2403.10853)
 - [REAL-FAKE: EFFECTIVE TRAINING DATA SYNTHESIS THROUGH DISTRIBUTION MATCHING](https://arxiv.org/pdf/2310.10402)
 - [Visual Instruction Tuning(LLaVA)](https://arxiv.org/abs/2304.08485)
--[mixup: BEYOND EMPIRICAL RISK MINIMIZATION](https://arxiv.org/pdf/1710.09412)
--[CADS: Unleashing the Diversity of Diffusion Models Through Condition-Annealed Sampling](https://studios.disneyresearch.com/2024/05/08/cads-unleashing-the-diversity-of-diffusion-models-through-condition-annealed-sampling/)
+- [mixup: BEYOND EMPIRICAL RISK MINIMIZATION](https://arxiv.org/pdf/1710.09412)
+- [CADS: Unleashing the Diversity of Diffusion Models Through Condition-Annealed Sampling](https://studios.disneyresearch.com/2024/05/08/cads-unleashing-the-diversity-of-diffusion-models-through-condition-annealed-sampling/)
 
