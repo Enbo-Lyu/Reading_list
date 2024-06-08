@@ -1,5 +1,6 @@
 # Reading_list
 - [SimCS: Simulation for Domain Incremental Online Continual Segmentation(2022)](https://arxiv.org/abs/2211.16234)
+- [Emerging Properties in Self-Supervised Vision Transformers(DINO)](https://arxiv.org/abs/2104.14294)
 - [Adding Conditional Control to Text-to-Image Diffusion Models(ControlNet)(2023)](https://arxiv.org/abs/2302.05543)
 - [LoRA: Low-Rank Adaptation of Large Language Models(LoRA)(2021)](https://arxiv.org/abs/2106.09685)
 - [High-Resolution Image Synthesis With Latent Diffusion Models(2022)](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)
