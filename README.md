@@ -22,5 +22,5 @@
 - [SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations](https://arxiv.org/abs/2108.01073)
 - [CADS: Unleashing the Diversity of Diffusion Models Through Condition-Annealed Sampling](https://studios.disneyresearch.com/2024/05/08/cads-unleashing-the-diversity-of-diffusion-models-through-condition-annealed-sampling/)
 - [DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/abs/2304.07193)
-- 
+- [Vision Transformers Need Registers](https://arxiv.org/abs/2309.16588)
 
