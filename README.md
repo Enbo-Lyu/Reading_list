@@ -23,4 +23,6 @@
 - [CADS: Unleashing the Diversity of Diffusion Models Through Condition-Annealed Sampling](https://studios.disneyresearch.com/2024/05/08/cads-unleashing-the-diversity-of-diffusion-models-through-condition-annealed-sampling/)
 - [DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/abs/2304.07193)
 - [Vision Transformers Need Registers](https://arxiv.org/abs/2309.16588)
+- [Online Continual Learning Without the Stor-
+age Constraint](https://arxiv.org/abs/2305.09253)
 
